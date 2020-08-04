@@ -1,2 +1,2 @@
-# improving-skills
-A place for me to upload any code I have worked on
+# React Game
+Created a Tic-Tac-Toe game using react
